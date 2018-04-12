@@ -1,0 +1,8 @@
+<conexion tipo="ADAM.Framework.Datos.SqlServer.ConexionBackendSqlServer, ADAM.Framework.Datos" nombre="ARCORAR" servidor="192.168.10.24" baseDatos="zª¥°©u‡" userId="¬©® £•—¥ª«¹§" pass="}kµuƒu—v¸zºv¦gd" />
+ 
+<conexion tipo="ADAM.Framework.Datos.SqlServer.ConexionBackendSqlServer, ADAM.Framework.Datos" nombre="GE" servidor="192.168.10.24" baseDatos="€}¡…|Š" userId="¬©® £•—¥ª«¹§" pass="}kµuƒu—v¸zºv¦gd" />
+
+
+<servicio tipo="ADAM.Framework.DefinicionServicio, ADAM.Framework" nombre="ARCORAR" URL="http://localhost:4828/ADAM.Servicios/Servicio.asmx" nombreConexion="ARCORAR" odbcV3="ARCORAR" />
+   
+<servicio tipo="ADAM.Framework.DefinicionServicio, ADAM.Framework" nombre="GE" URL="http://localhost:4828/ADAM.Servicios/Servicio.asmx" nombreConexion="GE" odbcV3="GE" />
